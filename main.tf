@@ -4,7 +4,7 @@ provider "aws" {
 
 terraform {
   backend "s3" {
-    bucket = "aula-03-eriktonon"
+    bucket = "aula-03-said"
     key    = "aula-03/terraform.tfstate"
     region = "us-east-1"
 

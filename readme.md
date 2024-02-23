@@ -3,7 +3,7 @@
 ```
 Resolução da aula dia 17/02/2024
 
-Adicionando git actions - Testanto Esteira
+Adicionando git actions
 ```
 
 ## Requirements
